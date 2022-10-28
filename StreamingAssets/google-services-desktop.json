@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "705796529903",
+    "project_id": "gongter-352905",
+    "storage_bucket": "gongter-352905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705796529903:ios:ceeb1f1707fcac273f451a",
+        "android_client_info": {
+          "package_name": "test.gt.gongter.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705796529903-il1lovgnggqvradltm8l7rk6krm53mp9.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDoz4-VKfub3rqAbsvjvDZZWXohBpkebk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
